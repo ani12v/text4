@@ -19,7 +19,7 @@
     <div  class="main">
 
       <!-- 正文内容 -->
-      <div class="maintext">
+      <div class="detailtext">
         <detail/>
       </div>
 
@@ -61,7 +61,7 @@ html,body,div{
   justify-content: center;
   overflow: hidden;
 }
-.maintext{
+.detailtext{
   width: 64%;
   height: 100%;
   background-color: white;
@@ -82,7 +82,7 @@ html,body,div{
     flex-wrap: wrap;
     justify-content: center;
   }
-  .maintext{
+  .detailtext{
     width: 100%;
     height: 100%;
     background-color: white;
